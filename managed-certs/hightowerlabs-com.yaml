@@ -1,0 +1,6 @@
+metadata:
+  name: "hightowerlabs-com"
+apiVersion: "stable.hightower.com/v1"
+kind: "ManagedCert"
+spec:
+  domain: "hightowerlabs.com"

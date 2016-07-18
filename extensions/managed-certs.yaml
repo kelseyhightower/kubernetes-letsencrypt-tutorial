@@ -1,0 +1,7 @@
+metadata:
+  name: "managed-cert.stable.hightower.com"
+apiVersion: extensions/v1beta1
+kind: ThirdPartyResource
+description: "A specification of a Letsencrypt cert to manage."
+versions:
+  - name: v1
